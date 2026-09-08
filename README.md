@@ -9,92 +9,27 @@
 
 ---
 
-### 🎯 About Me
+👋 Hi, I'm Sameer Raj — a 2026 graduate from NIT Rourkela and currently working as a Specialist Programmer (L1) at Infosys.<br><br>💻 I’m passionate about Software Engineering, Backend Development, Generative AI, and building scalable systems. During my time at Infosys, I worked as a Specialist Programmer Intern and contributed to reusable backend microservices for an internal AI platform, working with technologies such as Java, Spring Boot, REST APIs, and Microservices.<br><br>🚀 What I bring:<br>• Java | Spring Boot | REST APIs | Microservices<br>• Python | C++ | SQL | React.js<br>• System Design | Backend Engineering | Full-Stack Development<br>• Generative AI | Spring AI | Agentic AI<br>• Data Structures & Algorithms | Machine Learning<br><br>🏆 Achievements:<br>• 🎯 Solved 1000+ DSA problems across LeetCode & GeeksforGeeks<br>• 🥇 HackWithInfy'25 Finalist — recognized among the top 0.1% coders nationally<br>• 🤖 Selected for Amazon ML Summer School<br>• 💼 Specialist Programmer (L1) at Infosys<br>• 🎓 NIT Rourkela — Class of 2026 | CGPA: 8.54<br><br>I enjoy solving complex problems, designing scalable backend systems, and turning ideas into practical software. Currently exploring Spring AI, Generative AI, Agentic AI, and System Design.<br><br>📌 My GitHub is where I document what I build, learn, and experiment with.<br><br>⭐ Feel free to explore my repositories and connect!<br>
 
-Specialist Programmer (L1) at Infosys, building reusable backend microservices for an internal AI platform. NIT Rourkela CS graduate (2026, CGPA 8.54) with a strong systems-design and DSA foundation, now focused on Generative AI and agentic systems in production backends.
 
-### 🏆 Highlights
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-raj-27b065250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajsameer123z@gmail.com) 
 
-| | |
-|---|---|
-| 🥇 **HackWithInfy 2025 Finalist** | Top 0.1% among national competitors |
-| 🤖 **Amazon ML Summer School** | Selected participant |
-| 🎯 **1000+ DSA problems solved** | LeetCode & GeeksforGeeks |
-| 💼 **Specialist Programmer (L1), Infosys** | Backend microservices for internal AI platform |
-| 🎓 **NIT Rourkela, Class of 2026** | CGPA: 8.54 |
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rajsameer6534&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rajsameer6534&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajsameer6534&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rajsameer6534&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🚀 Featured Projects
-
-> *Replace these three with your strongest repos — pick projects that show backend depth, scale, or AI work, not tutorials. Recruiters click 1–2 pinned repos max, so make them count.*
-
-<table>
-<tr>
-<td width="50%">
-
-**[Project Name](#)**
-One-line impact statement — what it does and why it's non-trivial (e.g. "Event-driven order pipeline handling 10K+ req/min with Kafka + Redis caching").
-`Java` `Spring Boot` `Redis` `Kafka`
-
-</td>
-<td width="50%">
-
-**[Project Name](#)**
-One-line impact statement focused on the hardest engineering problem you solved.
-`Python` `FastAPI` `LangChain`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Project Name](#)**
-One-line impact statement — quantify it if you can (latency, scale, users, accuracy).
-`React` `Node.js` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-**[Project Name](#)**
-Your Spring AI / Agentic AI project — this is your differentiator, lead with it if it exists.
-`Spring AI` `Java` `Vector DB`
-
-</td>
-</tr>
-</table>
-
-*(On GitHub, use the "Customize your pins" button on your profile to pin these repos — they render above this README section.)*
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=rajsameer6534&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Core Stack
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-**Languages** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Backend** ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-000000?style=flat-square) ![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat-square) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-**AI / ML** ![Spring AI](https://img.shields.io/badge/-Spring%20AI-6DB33F?style=flat-square) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Data & Infra** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Frontend** ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=rajsameer6534&theme=dark&hide_border=true&count_private=false" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rajsameer6534&theme=dark&hide_border=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rajsameer6534&theme=dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  📫 Open to backend engineering & AI-infra roles — reach out at <a href="mailto:rajsameer123z@gmail.com">rajsameer123z@gmail.com</a>
-</p>
